@@ -1,17 +1,6 @@
-## TypeScript React Template
+## Tigia Euro TPB
 
-A minimum template for boostrap React application based on Typescript.
-
-Use this as a template when you start a new repository.
-
-### What included and configured are:
-
-- TypeScript
-- React
-- SCSS and TailwindCSS with a preset of colors
-- Parcel as a bundler
-- Support IE 11
-- Prettier in commithook
+This is a mini project to to me quickly see the forex exchange (Euro) from TPB
 
 ### How to use
 
@@ -27,4 +16,9 @@ Use this as a template when you start a new repository.
     $ yarn build
 ```
 
-- Deployment to [Now](https://zeit.co/docs#install-now-cli)
+### Todo
+
+- [x] Project setup & deployment to Now
+- [ ] Faster return value
+- [ ] Value appear in title and description
+- [ ] Improve UI
